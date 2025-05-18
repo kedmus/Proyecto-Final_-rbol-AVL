@@ -35,7 +35,8 @@ actualizarAltura, getFactorBalance: Se usan para mantener el árbol balanceado.
 
 ## Ejemplo 
 # CAPTURA DE ENTRADA
-![image](https://github.com/user-attachments/assets/be2aced1-2654-40e1-a85b-6b6c0fe3ff94) 
+![image](https://github.com/user-attachments/assets/ff582d14-b8ac-403f-9297-c20d998af490)
+
 
 # CAPTURA DE SALIDA 
 ![image](https://github.com/user-attachments/assets/cefbd89a-01c4-45a1-8c1d-99f169e4e613)
